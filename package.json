@@ -1,0 +1,23 @@
+{
+  "name": "5_8kontr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "gulp-rename": "^2.0.0",
+    "jquery": "^3.7.1",
+    "less": "^4.2.1"
+  },
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-less": "^5.0.0"
+  }
+}
